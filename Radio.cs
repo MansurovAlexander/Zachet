@@ -12,7 +12,7 @@ namespace Zachet
     // Слить ветку dev в master
     // push в репизиторрий на github
     // отправить ссылку на репизиторий 
-    
+    //change
     public class Radio
     {
         private int StationNum, Volume, SetNumber;
